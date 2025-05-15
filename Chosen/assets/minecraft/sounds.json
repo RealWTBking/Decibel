@@ -1,0 +1,1556 @@
+{
+  "music.creative": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.credits": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.dragon": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.end": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.game": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.game.creative": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.game.end": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.game.end.dragon": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.game.end.credits": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.game.nether": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.menu": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.nether.basalt_deltas": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.nether.crimson_forest": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.nether.nether_wastes": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.nether.soul_sand_valley": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.nether.warped_forest": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.badlands": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.bamboo_jungle": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.cherry_grove": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.deep_dark": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.desert": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.dripstone_caves": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.flower_forest": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.forest": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.frozen_peaks": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.grove": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.jagged_peaks": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.jungle": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.jungle_and_forest": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.lush_caves": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.meadow": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.old_growth_taiga": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.snowy_slopes": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.sparse_jungle": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.stony_peaks": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.swamp": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  },
+  "music.under_water": {
+    "category": "music",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/decibel/chosen",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dreamy",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/dripping",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/empty_mind",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/just_chill",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/messy_melody",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/miss",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/simplicity",
+        "stream": true
+      },
+	  {
+        "name": "music/decibel/untitled",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "pack": {
+		"description": "§l§4Dec§3ib§bel §r§7by §l§6WTBking
+§o§l§f♪ Nomadic Dawn",
+        "pack_format": 15,
+		"supported_formats": {
+			"min_inclusive": 2,
+			"max_inclusive": 999
+		}
+    }
+}

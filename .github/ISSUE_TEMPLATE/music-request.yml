@@ -1,0 +1,43 @@
+name: Music Request
+description: Recommend to add a new track to Decibel's selection
+labels: music
+body:
+- type: markdown
+  attributes:
+    value: |
+      Thank you for taking the time to suggest the addition of a track to Decibel.
+      Before you submit a request, please confirm that your request hasn't already been addressed [here](https://github.com/RealWTBking/Decibel/issues?q=is%3Aissue).
+
+- type: input
+  attributes:
+    label: Origin link
+    description: Paste the URL to the original page of the track.
+    placeholder: Ex: https://pixabay.com/music/...
+  validations:
+    required: true
+
+- type: dropdown
+  attributes:
+    label: License
+    description: Choose the option that corresponds to the license of the requested music.
+    options:
+    - All Rights Reserved (ARR)
+    - Other
+    - I'm not sure / not listed
+  validations:
+    required: true
+
+- type: checkboxes
+  attributes:
+    label: Confirm
+    options:
+    - label: This track includes minimal/no vocals and does not project mature ideas, whether implied or explicit.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Further reasoning (optional)
+    description: Anything else you'd like to state.
+  validations:
+    required: true

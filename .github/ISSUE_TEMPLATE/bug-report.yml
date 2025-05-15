@@ -1,0 +1,76 @@
+name: Bug Report
+description: Report a bug with Decibel
+labels: bug
+body:
+- type: markdown
+  attributes:
+    value: |
+      Thank you for taking the time to report a bug you've found with Decibel.
+      Before you submit an issue, please confirm that your issue hasn't already been addressed [here](https://github.com/RealWTBking/Decibel/issues?q=is%3Aissue).
+
+- type: dropdown
+  attributes:
+    label: Environment
+    description: What situation are you using Decibel with?
+    options:
+    - Vanilla
+    - Modded
+  validations:
+    required: true
+
+- type: dropdown
+  attributes:
+    label: Minecraft Version
+    description: What Minecraft version are you using Photon with?
+    options:
+    - 1.21.x
+    - 1.20.x
+    - 1.19.x
+    - 1.18.x
+    - 1.17.x
+    - 1.16.x
+    - 1.15.x
+    - 1.14.x
+    - 1.13.x
+    - 1.12.x
+    - 1.11.x
+    - 1.10.x
+    - 1.9.x
+    - 1.8.x
+    - 1.7.2-1.7.10
+    - Snapshot/Not listed
+  validations:
+    required: true
+
+- type: checkboxes
+  attributes:
+    label: Confirm
+    description: If not sure, check at https://modrinth/resourcepack/decibel/versions/
+    options:
+    - label: I am using the latest release of Decibel for my chosen music package.
+  validations:
+    required: true
+
+- type: checkboxes
+  attributes:
+    label: Modified
+    options:
+    - label: I have modified my Decibel package (added/removed tracks, edited sounds.json, etc.).
+  validations:
+    required: false
+
+- type: textarea
+  attributes:
+    label: Bug Description
+    description: In a concise manner, describe the bug you are experiencing.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Additional Files
+    description: Screenshots, logs, and other files that relate to the bug (please use a link to [mclo.gs](https://mclo.gs) when submitting a log file).
+    placeholder: |
+      Tip: Select this text box, then drag and drop the files here.
+  validations:
+    required: false
