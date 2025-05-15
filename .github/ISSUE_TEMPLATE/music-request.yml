@@ -12,7 +12,7 @@ body:
   attributes:
     label: Origin link
     description: Paste the URL to the original page of the track.
-    placeholder: Ex: https://pixabay.com/music/...
+    placeholder: Ex. https://pixabay.com/music/...
   validations:
     required: true
 
