@@ -20,6 +20,17 @@
     </ul>
 </details>
 
+<!-- Dark Secrets -->
+<details>
+    <summary>Dark Secrets</summary>
+    <ul>
+        <li><a href="https://pixabay.com/music/ambient-black-sunrise-dark-ambient-soundscape-104846/">♪ Black Sunrise - Dark Ambient Soundscape - Dream-Protocol</a></li>
+        <li><a href="https://pixabay.com/music/ambient-long-thriller-theme-90149/">♪ Long Thriller Theme - SergeQuadrado</a></li>
+        <li><a href="https://pixabay.com/music/ambient-darkest-hour-109488/">♪ Darkest Hour - NaturesEye</a></li>
+        <li><a href="https://pixabay.com/music/ambient-dark-secrets-of-the-universe-5745/">♪ 
+Dark Secrets Of The Universe - cybercutie</a></li>
+</details>
+
 <!-- Frozen Landscape -->
 <details>
     <summary>Frozen Landscape</summary>
