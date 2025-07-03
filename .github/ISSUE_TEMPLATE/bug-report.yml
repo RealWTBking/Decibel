@@ -21,7 +21,7 @@ body:
 - type: dropdown
   attributes:
     label: Minecraft Version
-    description: What Minecraft version are you using Photon with?
+    description: What Minecraft version are you using Decibel with?
     options:
     - 1.21.x
     - 1.20.x
