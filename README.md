@@ -5,7 +5,7 @@
 
 # Decibel
 
-Minecraft resource pack adding a variety of high-quality music to compliment any situation. 1.7.2-1.21.5 support!
+Minecraft resource pack adding a variety of high-quality music to compliment any situation. 1.7.2-1.21.7 support!
 
 [![Decibel](github-link.svg)](https://github.com/RealWTBking/Decibel)
 
@@ -16,7 +16,7 @@ Minecraft resource pack adding a variety of high-quality music to compliment any
 
 </div>
 
-Decibel is a resource pack that adds a variety of high-quality music for Minecraft 1.7.2-1.21.5. With a wide selection of pre-made packages to choose from, Decibel offers a solution for nearly any scenario. New releases soon!
+Decibel is a resource pack that adds a variety of high-quality music for Minecraft 1.7.2-1.21.7. With a wide selection of pre-made packages to choose from, Decibel offers a solution for nearly any scenario. New releases soon!
 
 <!--Download-->
 ## Download
